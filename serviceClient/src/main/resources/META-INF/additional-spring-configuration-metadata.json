@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "serviceOne.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceOne.ribbon.eureka.enabled'"
+  },
+  {
+    "name": "serviceOne.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceOne.ribbon.listOfServers'"
+  },
+  {
+    "name": "serviceOne.ribbon.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'serviceOne.ribbon.ServerListRefreshInterval'"
+  }
+]}

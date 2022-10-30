@@ -1,0 +1,9 @@
+serviceOne:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8081
+    ServerListRefreshInterval: 2000
+ 
+server:
+  port: 9090
